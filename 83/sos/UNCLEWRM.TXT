@@ -1,0 +1,74 @@
+UNCLE WORM v1.0                                                  15 March 1999
+===============
+for SOS on the TI-83
+by badja <badja@alphalink.com.au>
+
+
+How to Run
+==========
+Uncle Worm requires SOS and the ZLIB library to run.
+
+To run Uncle Worm, send the UNCLEWRM.83G file and the ZLIB library to your
+calculator. Start SOS and run INSTALL. Now you can run Uncle Worm.
+
+
+About
+=====
+Uncle Worm is a snake-type game with a difference. Unlike Nibbles, where you
+can travel in four directions only, Uncle Worm can travel in no less than
+thirty-two directions.
+
+
+How to Play
+===========
+At the title screen, use the UP and DOWN arrow keys to select the game speed,
+then press ENTER. Select the slow speed to start with. A different high score
+is recorded for each game speed.
+
+Next, you will see Uncle Worm travelling upward from the bottom of the screen.
+If he hits the edge of the screen, he'll die and the game will be over. So
+before he hits the top, steer him out of trouble using the LEFT and RIGHT
+arrow keys. Uncle Worm will also die if he crashes into himself, but right now
+he's too short for that to happen.
+
+Somewhere on the screen there will be an apple (a black circle). Steer Uncle
+Worm into this apple and he'll eat it. Another apple will appear somewhere
+else, and Uncle Worm will grow in length. The bigger the apple, the more he'll
+grow.
+
+After eating ten apples, a gap will appear at the top of the screen. You must
+guide Uncle Worm through this gap to complete the level. On the next level the
+playing area will be smaller.
+
+
+Scoring
+=======
+Eat apple  4 to 8 points
+           (dependent on size)
+
+Win level  16 points for level 1
+           32 points for level 2
+           48 points for level 3
+           ...etc...
+
+
+Summary of Keys
+===============
+
+Title screen:
+----------------------------------------------------
+Up/Down     Select speed
+ENTER       Start game
+CLEAR       Exit game
+0           Delete high score for selected speed
+
+In game:
+----------------------------------------------------
+Left/Right  Steer Uncle Worm
+MODE        Pause game
+ENTER       Continue after winning level or crashing
+CLEAR       End game
+
+
+
+Send any comments, ideas, or other feedback to badja@alphalink.com.au
